@@ -4,11 +4,11 @@
 
 **Problem Statement:**
 
-Atliq Hardwares, a prominent computer hardware producer in India with global reach, is committed to leveraging data for informed decision-making. However, they've identified a need for more insights and are keen to expand their data analytics team with junior data analysts who possess both technical and soft skills.
+Atliq Hardwares, a prominent computer hardware producer in India with global reach, is committed to leveraging data for informed decision-making. However, they've identified a need for more insights and are keen to expand their data analytics team with Data analysts who possess both technical and soft skills.
 
 **Challenge Overview:**
 
-I,Manisha Deepshikha Patra tasked with reviewing the document 'ad-hoc-requests.pdf,' which contains ten ad hoc data analysis requests that represent real-world business needs. My role is to use SQL queries to address these requests, transforming raw data into meaningful insights. Additionally, I will create a presentation to showcase my  findings. This presentation should not only convey the results but also demonstrate my ability to present data clearly and persuasively.
+I,Saurav Kumar tasked with reviewing the document 'ad-hoc-requests.pdf,' which contains ten ad hoc data analysis requests that represent real-world business needs. My role is to use SQL queries to address these requests, transforming raw data into meaningful insights. Additionally, I will create a presentation to showcase my  findings. This presentation should not only convey the results but also demonstrate my ability to present data clearly and persuasively.
 
 **Task Description:**
 
