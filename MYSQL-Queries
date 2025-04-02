@@ -295,7 +295,6 @@ total_sold_quantity in the fiscal_year 2021? The final output contains these
 fields,
 division
 product_code
-codebasics.io
 product
 total_sold_quantity
 rank_order */
